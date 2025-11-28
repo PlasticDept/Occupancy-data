@@ -1308,30 +1308,6 @@
     "UID": 20
   },
   {
-    "Location": "A-09-07",
-    "Part No": "TSOP7 (NAT)",
-    "Product Description": "PP RESIN COSMOPLENE TSOP7 (NAT)",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-09-11",
-    "Invoice No.": "3010100761",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
-    "Location": "A-09-08",
-    "Part No": "TSOP7 (NAT)",
-    "Product Description": "PP RESIN COSMOPLENE TSOP7 (NAT)",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-09-11",
-    "Invoice No.": "3010100761",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "A-09-09",
     "Part No": "TSOP7 (NAT)",
     "Product Description": "PP RESIN COSMOPLENE TSOP7 (NAT)",
@@ -4296,7 +4272,79 @@
     "UID": 20
   },
   {
+    "Location": "A-22-15",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-14",
+    "Invoice No.": "3010101564",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
+  },
+  {
     "Location": "A-22-16",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-14",
+    "Invoice No.": "3010101564",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
+  },
+  {
+    "Location": "A-22-17",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-14",
+    "Invoice No.": "3010101564",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
+  },
+  {
+    "Location": "A-22-18",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-14",
+    "Invoice No.": "3010101564",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
+  },
+  {
+    "Location": "A-22-19",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-14",
+    "Invoice No.": "3010101564",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
+  },
+  {
+    "Location": "A-22-20",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-14",
+    "Invoice No.": "3010101564",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
+  },
+  {
+    "Location": "A-22-21",
     "Part No": "PP LA880T NA",
     "Product Description": "PP LA880T NATURAL",
     "Customer Code": "PL AUTO",
@@ -4720,7 +4768,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -4732,7 +4780,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -4744,7 +4792,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -4756,7 +4804,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -4768,7 +4816,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -4780,7 +4828,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -4792,7 +4840,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -10868,8 +10916,8 @@
     "Received Date": "2025-11-18",
     "Invoice No.": "S255237A",
     "Lot No.": null,
-    "QTY": 49.0,
-    "UID": 2
+    "QTY": 25.0,
+    "UID": 1
   },
   {
     "Location": "DG-01-2-2",
@@ -11998,18 +12046,6 @@
     "Lot No.": "MH-411FTZ1",
     "QTY": 180.0,
     "UID": 12
-  },
-  {
-    "Location": "DG-13-1-4",
-    "Part No": "PAX-1637 201B",
-    "Product Description": "TECHNIACE PAX-1637 (TH) 201B",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-15",
-    "Invoice No.": "C5-5A-TTI-009",
-    "Lot No.": null,
-    "QTY": 200.0,
-    "UID": 8
   },
   {
     "Location": "DG-13-2-1",
@@ -13369,18 +13405,6 @@
   },
   {
     "Location": "DH-13-2-4",
-    "Part No": "ASA TA42C-X01 NAT",
-    "Product Description": "ASA TA42C-X01 NAT",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-09-29",
-    "Invoice No.": "2508233-E",
-    "Lot No.": "517-8-961",
-    "QTY": 50.0,
-    "UID": 2
-  },
-  {
-    "Location": "DH-13-2-4",
     "Part No": "LVA0520G-TH",
     "Product Description": "ELASTOMER LVA0520G-TH",
     "Customer Code": "PL AUTO 2",
@@ -13525,18 +13549,6 @@
   },
   {
     "Location": "DH-15-1-4",
-    "Part No": "325B3 (Light BK)",
-    "Product Description": "ABS RESIN 325B3",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-25",
-    "Invoice No.": "2507148-E",
-    "Lot No.": "528-4-908",
-    "QTY": 1000.0,
-    "UID": 40
-  },
-  {
-    "Location": "DH-15-2-1",
     "Part No": "325B3 (Light BK)",
     "Product Description": "ABS RESIN 325B3",
     "Customer Code": "PL AUTO",
@@ -14458,18 +14470,6 @@
     "Lot No.": null,
     "QTY": 4.0,
     "UID": 4
-  },
-  {
-    "Location": "DI-08-1-3",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
   },
   {
     "Location": "DI-08-1-4",
@@ -15540,6 +15540,18 @@
     "UID": 5
   },
   {
+    "Location": "DJ-02-1-1",
+    "Part No": "ASA TA42C-X01 NAT",
+    "Product Description": "ASA TA42C-X01 NAT",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-09-29",
+    "Invoice No.": "2508233-E",
+    "Lot No.": "517-8-961",
+    "QTY": 50.0,
+    "UID": 2
+  },
+  {
     "Location": "DJ-02-1-2",
     "Part No": "M90-45 LVBK",
     "Product Description": "POM DURACON M90-45 LVBK",
@@ -15648,18 +15660,6 @@
     "UID": 40
   },
   {
-    "Location": "DJ-03-1-3",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DJ-03-1-4",
     "Part No": "17007B910",
     "Product Description": "ZYTEL FE15004 BK032D",
@@ -15730,6 +15730,18 @@
     "Lot No.": null,
     "QTY": 576.0,
     "UID": 32
+  },
+  {
+    "Location": "DJ-04-1-2",
+    "Part No": "17087B915",
+    "Product Description": "K9720",
+    "Customer Code": "PL AUTO 2",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "SIN5102",
+    "Lot No.": null,
+    "QTY": 750.0,
+    "UID": 30
   },
   {
     "Location": "DJ-04-1-3",
@@ -15934,6 +15946,18 @@
     "Lot No.": null,
     "QTY": 120.0,
     "UID": 6
+  },
+  {
+    "Location": "DJ-06-1-2",
+    "Part No": "8K-X7955",
+    "Product Description": "PP AZ564GL 202B 8K-X7955",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "A25110214",
+    "Lot No.": "A5YTS089",
+    "QTY": 1000.0,
+    "UID": 40
   },
   {
     "Location": "DJ-06-1-3",
@@ -16500,6 +16524,18 @@
     "UID": 8
   },
   {
+    "Location": "DJ-11-2-4",
+    "Part No": "8K-X7955",
+    "Product Description": "PP AZ564GL 202B 8K-X7955",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "A25110214",
+    "Lot No.": "A5YTS089",
+    "QTY": 1000.0,
+    "UID": 40
+  },
+  {
     "Location": "DJ-12-1-1",
     "Part No": "PPC426BT",
     "Product Description": "POLYPROPYLENE C426BT",
@@ -16740,6 +16776,18 @@
     "UID": 20
   },
   {
+    "Location": "DJ-14-2-1",
+    "Part No": "17087B915",
+    "Product Description": "K9720",
+    "Customer Code": "PL AUTO 2",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "SIN5102",
+    "Lot No.": null,
+    "QTY": 750.0,
+    "UID": 30
+  },
+  {
     "Location": "DJ-14-2-2",
     "Part No": "PP LA880T NA",
     "Product Description": "PP LA880T NATURAL",
@@ -16798,6 +16846,18 @@
     "Lot No.": null,
     "QTY": 750.0,
     "UID": 30
+  },
+  {
+    "Location": "DJ-15-1-3",
+    "Part No": "GSF 79",
+    "Product Description": "GSF 79 BLACK",
+    "Customer Code": "PL AUTO 2",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "TTI/IDP3/XI/6650/OTH",
+    "Lot No.": null,
+    "QTY": 300.0,
+    "UID": 12
   },
   {
     "Location": "DJ-15-1-4",
@@ -16904,8 +16964,8 @@
     "Received Date": "2025-11-11",
     "Invoice No.": "A25110075",
     "Lot No.": "A59TS353",
-    "QTY": 1000.0,
-    "UID": 40
+    "QTY": 575.0,
+    "UID": 23
   },
   {
     "Location": "DK-01-2-1",
@@ -16928,8 +16988,8 @@
     "Received Date": "2025-10-15",
     "Invoice No.": "A25100151",
     "Lot No.": "A5XTS077",
-    "QTY": 200.0,
-    "UID": 8
+    "QTY": 125.0,
+    "UID": 5
   },
   {
     "Location": "DK-01-2-3",
@@ -16960,7 +17020,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -17428,7 +17488,7 @@
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-10-21",
     "Invoice No.": "3010101227",
     "Lot No.": null,
@@ -17746,6 +17806,18 @@
     "Lot No.": "25JE101307",
     "QTY": 1000.0,
     "UID": 40
+  },
+  {
+    "Location": "DK-10-2-2",
+    "Part No": "17087B915",
+    "Product Description": "K9720",
+    "Customer Code": "PL AUTO 2",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "SIN5102",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
   },
   {
     "Location": "DK-10-2-3",
@@ -18492,14 +18564,14 @@
     "UID": 1
   },
   {
-    "Location": "DL-03-2-2",
-    "Part No": "8D-X7537",
-    "Product Description": "PP TSOP 7 R1G3",
-    "Customer Code": "PL AUTO",
+    "Location": "DL-03-2-3",
+    "Part No": "N33C7",
+    "Product Description": "LEONA 14G25 N33C7",
+    "Customer Code": "PL AUTO 2",
     "Status": "Putaway",
-    "Received Date": "2025-11-10",
-    "Invoice No.": "A25110064",
-    "Lot No.": "A59TS353",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "TTI/IDP3/XI/6651/OTH",
+    "Lot No.": null,
     "QTY": 75.0,
     "UID": 3
   },
@@ -18852,18 +18924,6 @@
     "UID": 20
   },
   {
-    "Location": "DL-07-2-4",
-    "Part No": "ABS 100 MPF",
-    "Product Description": "ABS RESIN 100 MPF",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-09-29",
-    "Invoice No.": "2508233-E",
-    "Lot No.": "527-7-881",
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DL-08-1-1",
     "Part No": "PA66 D225-HA",
     "Product Description": "PA66 D225-HA",
@@ -18932,8 +18992,8 @@
     "Received Date": "2025-08-18",
     "Invoice No.": "2507127-E",
     "Lot No.": "527-7-869",
-    "QTY": 625.0,
-    "UID": 25
+    "QTY": 575.0,
+    "UID": 23
   },
   {
     "Location": "DL-08-2-3",
@@ -19088,8 +19148,8 @@
     "Received Date": "2025-10-08",
     "Invoice No.": "2002057281",
     "Lot No.": "1C2591001",
-    "QTY": 100.0,
-    "UID": 4
+    "QTY": 75.0,
+    "UID": 3
   },
   {
     "Location": "DL-10-2-4",
@@ -19498,6 +19558,18 @@
     "Lot No.": "512-6-140",
     "QTY": 100.0,
     "UID": 4
+  },
+  {
+    "Location": "DL-15-2-1",
+    "Part No": "17025B915",
+    "Product Description": "DOZ",
+    "Customer Code": "PL AUTO 2",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "SIN5091",
+    "Lot No.": null,
+    "QTY": 45.0,
+    "UID": 3
   },
   {
     "Location": "DL-15-2-2",
@@ -22656,18 +22728,6 @@
     "UID": 40
   },
   {
-    "Location": "DN-14-2-3",
-    "Part No": "3K-X7826",
-    "Product Description": "ABS 450Y-MH1 U 201B-1",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-11-14",
-    "Invoice No.": "A25110119",
-    "Lot No.": "A5YTH107",
-    "QTY": 325.0,
-    "UID": 13
-  },
-  {
     "Location": "DN-14-2-4",
     "Part No": "FE15032 BK032N CN",
     "Product Description": "ZYTEL FE15032 BK032N",
@@ -23084,8 +23144,8 @@
     "Received Date": "2025-10-16",
     "Invoice No.": "A25100168",
     "Lot No.": "A5XTS074",
-    "QTY": 1000.0,
-    "UID": 40
+    "QTY": 250.0,
+    "UID": 10
   },
   {
     "Location": "DO-04-1-3",
@@ -24756,18 +24816,6 @@
     "UID": 40
   },
   {
-    "Location": "DP-06-2-4",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DP-07-1-1",
     "Part No": "PP APBP67 NATURAL",
     "Product Description": "MYTEX PP APBP67 NATURAL",
@@ -24910,18 +24958,6 @@
     "Lot No.": null,
     "QTY": 1000.0,
     "UID": 40
-  },
-  {
-    "Location": "DP-08-2-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
   },
   {
     "Location": "DP-08-2-2",
@@ -25560,18 +25596,6 @@
     "UID": 20
   },
   {
-    "Location": "DQ-01-1-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DQ-01-1-2",
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
@@ -25860,18 +25884,6 @@
     "UID": 9
   },
   {
-    "Location": "DQ-03-2-4",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DQ-04-1-1",
     "Part No": "3K-X7825",
     "Product Description": "ASA S210B4 0256K",
@@ -26136,18 +26148,6 @@
     "UID": 40
   },
   {
-    "Location": "DQ-06-2-2",
-    "Part No": "ZYTEL 70G30HSLR",
-    "Product Description": "NYLON ZYTEL 70G30HSLR BK099",
-    "Customer Code": "PL AUTO 2",
-    "Status": "Putaway",
-    "Received Date": "2025-10-20",
-    "Invoice No.": "979972598",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DQ-06-2-3",
     "Part No": "ASA TA50-X02 SB1",
     "Product Description": "ASA TA50-X02 SB1",
@@ -26242,6 +26242,30 @@
     "Lot No.": null,
     "QTY": 1000.0,
     "UID": 40
+  },
+  {
+    "Location": "DQ-07-2-3",
+    "Part No": "ASA TA50-X02 SB1",
+    "Product Description": "ASA TA50-X02 SB1",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "2505839-E",
+    "Lot No.": null,
+    "QTY": 425.0,
+    "UID": 17
+  },
+  {
+    "Location": "DQ-07-2-3",
+    "Part No": "ASA TA50-X02 SB1",
+    "Product Description": "ASA TA50-X02 SB1",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "2507146-E",
+    "Lot No.": null,
+    "QTY": 75.0,
+    "UID": 3
   },
   {
     "Location": "DQ-07-2-4",
@@ -26712,6 +26736,18 @@
     "UID": 20
   },
   {
+    "Location": "DQ-13-1-1",
+    "Part No": "325B3 (Light BK)",
+    "Product Description": "ABS RESIN 325B3",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-10-13",
+    "Invoice No.": "2509129-E",
+    "Lot No.": "517-8-898",
+    "QTY": 1000.0,
+    "UID": 40
+  },
+  {
     "Location": "DQ-13-1-2",
     "Part No": "325B3 (Light BK)",
     "Product Description": "ABS RESIN 325B3",
@@ -27046,18 +27082,6 @@
     "Lot No.": null,
     "QTY": 1000.0,
     "UID": 40
-  },
-  {
-    "Location": "DR-02-1-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
   },
   {
     "Location": "DR-02-1-2",
@@ -27668,8 +27692,8 @@
     "Received Date": "2025-09-02",
     "Invoice No.": "A25090020",
     "Lot No.": "A56TS252",
-    "QTY": 50.0,
-    "UID": 2
+    "QTY": 25.0,
+    "UID": 1
   },
   {
     "Location": "DR-08-1-4",
@@ -28572,6 +28596,18 @@
     "UID": 40
   },
   {
+    "Location": "DS-02-2-2",
+    "Part No": "8K-X7955",
+    "Product Description": "PP AZ564GL 202B 8K-X7955",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "A25110214",
+    "Lot No.": "A5YTS090",
+    "QTY": 875.0,
+    "UID": 35
+  },
+  {
     "Location": "DS-02-2-3",
     "Part No": "AP03B",
     "Product Description": "AP03B",
@@ -28798,6 +28834,18 @@
     "Lot No.": null,
     "QTY": 500.0,
     "UID": 20
+  },
+  {
+    "Location": "DS-04-2-4",
+    "Part No": "8K-X7955",
+    "Product Description": "PP AZ564GL 202B 8K-X7955",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "A25110214",
+    "Lot No.": "A5YTS089",
+    "QTY": 1000.0,
+    "UID": 40
   },
   {
     "Location": "DS-05-1-1",
@@ -29424,6 +29472,18 @@
     "UID": 20
   },
   {
+    "Location": "DS-12-1-1",
+    "Part No": "8K-X7955",
+    "Product Description": "PP AZ564GL 202B 8K-X7955",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "A25110214",
+    "Lot No.": "A5YTS090",
+    "QTY": 1000.0,
+    "UID": 40
+  },
+  {
     "Location": "DS-12-1-2",
     "Part No": "PP LA880T NA",
     "Product Description": "PP LA880T NATURAL",
@@ -29434,6 +29494,18 @@
     "Lot No.": null,
     "QTY": 500.0,
     "UID": 20
+  },
+  {
+    "Location": "DS-12-1-3",
+    "Part No": "8K-X7955",
+    "Product Description": "PP AZ564GL 202B 8K-X7955",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "A25110214",
+    "Lot No.": "A5YTS089",
+    "QTY": 125.0,
+    "UID": 5
   },
   {
     "Location": "DS-12-1-4",
@@ -29588,6 +29660,18 @@
     "Received Date": "2025-11-13",
     "Invoice No.": "A25110102",
     "Lot No.": "A5XTS256",
+    "QTY": 1000.0,
+    "UID": 40
+  },
+  {
+    "Location": "DS-14-1-1",
+    "Part No": "8K-X7955",
+    "Product Description": "PP AZ564GL 202B 8K-X7955",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "A25110214",
+    "Lot No.": "A5YTS089",
     "QTY": 1000.0,
     "UID": 40
   },
@@ -30372,18 +30456,6 @@
     "UID": 20
   },
   {
-    "Location": "DT-07-1-4",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DT-07-2-1",
     "Part No": "17082B917",
     "Product Description": "PC IUPILON S1000R 9001 BLACK",
@@ -30824,8 +30896,8 @@
     "Received Date": "2025-11-14",
     "Invoice No.": "A25110119",
     "Lot No.": "A5YTH107",
-    "QTY": 1000.0,
-    "UID": 40
+    "QTY": 675.0,
+    "UID": 27
   },
   {
     "Location": "DT-12-1-3",
@@ -31148,8 +31220,8 @@
     "Received Date": "2025-10-14",
     "Invoice No.": "B25100180",
     "Lot No.": "B58TS139",
-    "QTY": 650.0,
-    "UID": 26
+    "QTY": 150.0,
+    "UID": 6
   },
   {
     "Location": "DT-15-2-2",
@@ -31388,8 +31460,8 @@
     "Received Date": "2025-08-22",
     "Invoice No.": "B25080274",
     "Lot No.": "B58TS054",
-    "QTY": 75.0,
-    "UID": 3
+    "QTY": 25.0,
+    "UID": 1
   },
   {
     "Location": "DU-02-2-4",
@@ -31486,18 +31558,6 @@
     "Lot No.": null,
     "QTY": 100.0,
     "UID": 4
-  },
-  {
-    "Location": "DU-03-2-4",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-30",
-    "Invoice No.": "3010101325",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
   },
   {
     "Location": "DU-04-1-1",
@@ -31796,8 +31856,8 @@
     "Received Date": "2025-08-21",
     "Invoice No.": "TOY-0000112276",
     "Lot No.": null,
-    "QTY": 700.0,
-    "UID": 28
+    "QTY": 200.0,
+    "UID": 8
   },
   {
     "Location": "DU-07-2-1",
@@ -31822,18 +31882,6 @@
     "Lot No.": "517-8-011",
     "QTY": 850.0,
     "UID": 34
-  },
-  {
-    "Location": "DU-07-2-3",
-    "Part No": "AP03B",
-    "Product Description": "AP03B",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-15",
-    "Invoice No.": "3010101161",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
   },
   {
     "Location": "DU-07-2-4",
@@ -32436,18 +32484,6 @@
     "UID": 40
   },
   {
-    "Location": "DU-15-1-3",
-    "Part No": "AP03B",
-    "Product Description": "AP03B",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-15",
-    "Invoice No.": "3010101161",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DU-15-2-1",
     "Part No": "PP LA880T NA",
     "Product Description": "PP LA880T NATURAL",
@@ -32616,18 +32652,6 @@
     "UID": 40
   },
   {
-    "Location": "DV-02-2-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-11-14",
-    "Invoice No.": "3010101564",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DV-02-2-2",
     "Part No": "TR8EK 5PK JJA2291P",
     "Product Description": "PP AP-TR8EK 5PK JJA2291P",
@@ -32700,18 +32724,6 @@
     "UID": 20
   },
   {
-    "Location": "DV-03-1-4",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-11-14",
-    "Invoice No.": "3010101564",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DV-03-2-1",
     "Part No": "PP LA880T NA",
     "Product Description": "PP LA880T NATURAL",
@@ -32770,18 +32782,6 @@
     "Lot No.": null,
     "QTY": 1000.0,
     "UID": 40
-  },
-  {
-    "Location": "DV-04-1-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-11-14",
-    "Invoice No.": "3010101564",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
   },
   {
     "Location": "DV-04-1-2",
@@ -33092,8 +33092,8 @@
     "Received Date": "2025-10-03",
     "Invoice No.": "A25100040",
     "Lot No.": "A59TS045",
-    "QTY": 900.0,
-    "UID": 36
+    "QTY": 875.0,
+    "UID": 35
   },
   {
     "Location": "DV-07-2-3",
@@ -33296,8 +33296,8 @@
     "Received Date": "2025-10-13",
     "Invoice No.": "2509129-E",
     "Lot No.": "517-8-898",
-    "QTY": 1175.0,
-    "UID": 47
+    "QTY": 175.0,
+    "UID": 7
   },
   {
     "Location": "DV-09-2-4",
@@ -33430,18 +33430,6 @@
     "Lot No.": null,
     "QTY": 850.0,
     "UID": 34
-  },
-  {
-    "Location": "DV-11-1-2",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-11-14",
-    "Invoice No.": "3010101564",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
   },
   {
     "Location": "DV-11-1-3",
@@ -33720,16 +33708,16 @@
     "UID": 40
   },
   {
-    "Location": "DV-14-1-2",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
+    "Location": "DV-14-1-3",
+    "Part No": "PP MA04/NA",
+    "Product Description": "PP MA04/NA",
+    "Customer Code": "PL AUTO 2",
     "Status": "Putaway",
-    "Received Date": "2025-11-14",
-    "Invoice No.": "3010101564",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "C2-58-TTI-011",
     "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
+    "QTY": 175.0,
+    "UID": 7
   },
   {
     "Location": "DV-14-1-4",
@@ -33850,18 +33838,6 @@
     "Lot No.": null,
     "QTY": 1000.0,
     "UID": 40
-  },
-  {
-    "Location": "DV-15-2-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-11-14",
-    "Invoice No.": "3010101564",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
   },
   {
     "Location": "DV-15-2-2",
@@ -34424,8 +34400,8 @@
     "Received Date": "2025-11-07",
     "Invoice No.": "3010099389",
     "Lot No.": null,
-    "QTY": 1000.0,
-    "UID": 40
+    "QTY": 875.0,
+    "UID": 35
   },
   {
     "Location": "DW-06-2-2",
@@ -34460,8 +34436,8 @@
     "Received Date": "2025-10-29",
     "Invoice No.": "A25100242",
     "Lot No.": "A5XTS082",
-    "QTY": 750.0,
-    "UID": 30
+    "QTY": 250.0,
+    "UID": 10
   },
   {
     "Location": "DW-07-1-1",
@@ -34642,6 +34618,18 @@
     "Lot No.": null,
     "QTY": 1000.0,
     "UID": 40
+  },
+  {
+    "Location": "DW-09-1-3",
+    "Part No": "LAK240P-QG6065",
+    "Product Description": "LAK240P-QG6065",
+    "Customer Code": "PL AUTO 2",
+    "Status": "Putaway",
+    "Received Date": "2025-11-27",
+    "Invoice No.": "TTI/IDP3/XI/6651/OTH",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
   },
   {
     "Location": "DW-09-1-4",
@@ -34828,7 +34816,7 @@
     "Part No": "GH7",
     "Product Description": "COMPOUNDING ADDITIVE: GH7",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-11-06",
     "Invoice No.": "3010101479",
     "Lot No.": null,
@@ -34840,7 +34828,7 @@
     "Part No": "GH7",
     "Product Description": "COMPOUNDING ADDITIVE: GH7",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-11-06",
     "Invoice No.": "3010101479",
     "Lot No.": null,
@@ -35032,24 +35020,12 @@
     "Part No": "GH7",
     "Product Description": "COMPOUNDING ADDITIVE: GH7",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-11-06",
     "Invoice No.": "3010101479",
     "Lot No.": null,
     "QTY": 585.0,
     "UID": 39
-  },
-  {
-    "Location": "DW-13-2-2",
-    "Part No": "CPS188",
-    "Product Description": "CPS188 NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-11-07",
-    "Invoice No.": "3010099389",
-    "Lot No.": null,
-    "QTY": 375.0,
-    "UID": 15
   },
   {
     "Location": "DW-13-2-3",
@@ -35950,18 +35926,6 @@
     "Lot No.": "527-9-961",
     "QTY": 1000.0,
     "UID": 40
-  },
-  {
-    "Location": "DX-08-2-3",
-    "Part No": "PAX-1637 201B",
-    "Product Description": "TECHNIACE PAX-1637 (TH) 201B",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-11-14",
-    "Invoice No.": "C5-5B-TTI-002",
-    "Lot No.": null,
-    "QTY": 200.0,
-    "UID": 8
   },
   {
     "Location": "DX-08-2-4",
@@ -37080,18 +37044,6 @@
     "UID": 13
   },
   {
-    "Location": "DY-06-1-4",
-    "Part No": "PP8285E1",
-    "Product Description": "PP8285E1",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-17",
-    "Invoice No.": "3010099132",
-    "Lot No.": null,
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DY-06-2-1",
     "Part No": "ABS 100 MPF",
     "Product Description": "ABS RESIN 100 MPF",
@@ -37354,18 +37306,6 @@
     "Lot No.": null,
     "QTY": 500.0,
     "UID": 20
-  },
-  {
-    "Location": "DY-09-1-4",
-    "Part No": "PP8285E1",
-    "Product Description": "PP8285E1",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-17",
-    "Invoice No.": "3010099132",
-    "Lot No.": null,
-    "QTY": 1000.0,
-    "UID": 40
   },
   {
     "Location": "DY-09-2-1",
@@ -38208,18 +38148,6 @@
     "UID": 20
   },
   {
-    "Location": "DZ-03-2-4",
-    "Part No": "8K-X8634",
-    "Product Description": "BR5B1 202B",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-10-21",
-    "Invoice No.": "A25100198",
-    "Lot No.": "A5XTS054",
-    "QTY": 500.0,
-    "UID": 20
-  },
-  {
     "Location": "DZ-04-1-1",
     "Part No": "TSOP7 (NAT)",
     "Product Description": "PP RESIN COSMOPLENE TSOP7 (NAT)",
@@ -38412,6 +38340,18 @@
     "UID": 40
   },
   {
+    "Location": "DZ-06-1-2",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-14",
+    "Invoice No.": "3010101564",
+    "Lot No.": null,
+    "QTY": 500.0,
+    "UID": 20
+  },
+  {
     "Location": "DZ-06-1-3",
     "Part No": "AP03B",
     "Product Description": "AP03B",
@@ -38504,8 +38444,8 @@
     "Received Date": "2025-11-18",
     "Invoice No.": "A25110132",
     "Lot No.": "A5YTS109",
-    "QTY": 675.0,
-    "UID": 27
+    "QTY": 650.0,
+    "UID": 26
   },
   {
     "Location": "DZ-07-1-3",
@@ -38732,8 +38672,8 @@
     "Received Date": "2025-11-14",
     "Invoice No.": "3010101564",
     "Lot No.": null,
-    "QTY": 1000.0,
-    "UID": 40
+    "QTY": 500.0,
+    "UID": 20
   },
   {
     "Location": "DZ-09-2-2",
@@ -39368,8 +39308,8 @@
     "Received Date": "2025-11-14",
     "Invoice No.": "C5-5B-TTI-002",
     "Lot No.": null,
-    "QTY": 700.0,
-    "UID": 28
+    "QTY": 600.0,
+    "UID": 24
   },
   {
     "Location": "EA-01-2-2",
@@ -42308,8 +42248,8 @@
     "Received Date": "2025-11-05",
     "Invoice No.": "2002079565",
     "Lot No.": "1C25X1502",
-    "QTY": 375.0,
-    "UID": 15
+    "QTY": 325.0,
+    "UID": 13
   },
   {
     "Location": "EC-02-2-1",
@@ -42860,8 +42800,8 @@
     "Received Date": "2025-11-21",
     "Invoice No.": "2510050-E",
     "Lot No.": "528-10-935",
-    "QTY": 975.0,
-    "UID": 39
+    "QTY": 875.0,
+    "UID": 35
   },
   {
     "Location": "EC-08-2-1",
@@ -45388,7 +45328,7 @@
     "Part No": "GH7",
     "Product Description": "COMPOUNDING ADDITIVE: GH7",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-11-06",
     "Invoice No.": "3010101479",
     "Lot No.": null,
@@ -45436,7 +45376,7 @@
     "Part No": "GH7",
     "Product Description": "COMPOUNDING ADDITIVE: GH7",
     "Customer Code": "PL AUTO",
-    "Status": "Putaway",
+    "Status": "Allocated",
     "Received Date": "2025-11-06",
     "Invoice No.": "3010101479",
     "Lot No.": null,
@@ -45704,8 +45644,8 @@
     "Received Date": "2025-10-03",
     "Invoice No.": "A25100040",
     "Lot No.": "A59TS043",
-    "QTY": 425.0,
-    "UID": 17
+    "QTY": 375.0,
+    "UID": 15
   },
   {
     "Location": "EE-09-2-3",
@@ -52116,6 +52056,42 @@
     "UID": 20
   },
   {
+    "Location": "GA-04-2-1",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-08-20",
+    "Invoice No.": "3010100391",
+    "Lot No.": null,
+    "QTY": 100.0,
+    "UID": 4
+  },
+  {
+    "Location": "GA-04-2-1",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-08-23",
+    "Invoice No.": "3010100393",
+    "Lot No.": null,
+    "QTY": 50.0,
+    "UID": 2
+  },
+  {
+    "Location": "GA-04-2-1",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-08-26",
+    "Invoice No.": "3010100490",
+    "Lot No.": null,
+    "QTY": 50.0,
+    "UID": 2
+  },
+  {
     "Location": "GA-04-2-2",
     "Part No": "AZ864E4",
     "Product Description": "PROPYLENE COPOLYMER COSMOPLENE AZ864E4",
@@ -52138,6 +52114,18 @@
     "Lot No.": null,
     "QTY": 500.0,
     "UID": 20
+  },
+  {
+    "Location": "GA-05-1-1",
+    "Part No": "PP8285E1",
+    "Product Description": "PP8285E1",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-08-27",
+    "Invoice No.": "3010098436",
+    "Lot No.": null,
+    "QTY": 175.0,
+    "UID": 7
   },
   {
     "Location": "GA-05-1-2",
@@ -52212,6 +52200,18 @@
     "UID": 40
   },
   {
+    "Location": "GA-06-2-1",
+    "Part No": "AP03B",
+    "Product Description": "AP03B",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-08-20",
+    "Invoice No.": "TTI/IDP1/VIII/11411/",
+    "Lot No.": null,
+    "QTY": 50.0,
+    "UID": 2
+  },
+  {
     "Location": "GA-06-2-2",
     "Part No": "17059B910",
     "Product Description": "ABS TECHNO MUH E-1500W (9ET-692A)",
@@ -52284,6 +52284,18 @@
     "UID": 40
   },
   {
+    "Location": "GA-07-2-1",
+    "Part No": "PP8285E1",
+    "Product Description": "PP8285E1",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-06-26",
+    "Invoice No.": "3010098985",
+    "Lot No.": null,
+    "QTY": 25.0,
+    "UID": 1
+  },
+  {
     "Location": "GA-07-2-2",
     "Part No": "PP AZ564G",
     "Product Description": "PP RESIN COSMOPLENE AZ564",
@@ -52308,6 +52320,18 @@
     "UID": 40
   },
   {
+    "Location": "GA-08-1-1",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-08-30",
+    "Invoice No.": "3010100492",
+    "Lot No.": null,
+    "QTY": 525.0,
+    "UID": 21
+  },
+  {
     "Location": "GA-08-1-3",
     "Part No": "TSOP7 (NAT)",
     "Product Description": "PP RESIN COSMOPLENE TSOP7 (NAT)",
@@ -52330,6 +52354,30 @@
     "Lot No.": null,
     "QTY": 1000.0,
     "UID": 40
+  },
+  {
+    "Location": "GA-08-2-1",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-08-29",
+    "Invoice No.": "3010100491",
+    "Lot No.": null,
+    "QTY": 75.0,
+    "UID": 3
+  },
+  {
+    "Location": "GA-08-2-1",
+    "Part No": "PP LA880T NA",
+    "Product Description": "PP LA880T NATURAL",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-08-30",
+    "Invoice No.": "3010100492",
+    "Lot No.": null,
+    "QTY": 50.0,
+    "UID": 2
   },
   {
     "Location": "GA-08-2-2",
@@ -52366,6 +52414,18 @@
     "Lot No.": null,
     "QTY": 1000.0,
     "UID": 40
+  },
+  {
+    "Location": "GA-09-1-1",
+    "Part No": "PP8285E1",
+    "Product Description": "PP8285E1",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-07-21",
+    "Invoice No.": "3010099059",
+    "Lot No.": null,
+    "QTY": 50.0,
+    "UID": 2
   },
   {
     "Location": "GA-09-1-3",
@@ -52414,6 +52474,18 @@
     "Lot No.": null,
     "QTY": 500.0,
     "UID": 20
+  },
+  {
+    "Location": "GA-10-1-1",
+    "Part No": "TSOP7 (NAT)",
+    "Product Description": "PP RESIN COSMOPLENE TSOP7 (NAT)",
+    "Customer Code": "PL AUTO",
+    "Status": "Allocated",
+    "Received Date": "2025-09-26",
+    "Invoice No.": "3010100945",
+    "Lot No.": null,
+    "QTY": 75.0,
+    "UID": 3
   },
   {
     "Location": "GA-10-1-3",
@@ -52597,6 +52669,18 @@
   },
   {
     "Location": "GA-NG-01-1-1",
+    "Part No": "AP03B",
+    "Product Description": "AP03B",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-28",
+    "Invoice No.": "3010101161",
+    "Lot No.": null,
+    "QTY": 25.0,
+    "UID": 1
+  },
+  {
+    "Location": "GA-NG-01-1-1",
     "Part No": "ASA TA50 X02 NAT",
     "Product Description": "ASA TA50 X02 NAT",
     "Customer Code": "PL AUTO",
@@ -52681,6 +52765,18 @@
   },
   {
     "Location": "GA-NG-01-1-1",
+    "Part No": "PP8285E1",
+    "Product Description": "PP8285E1",
+    "Customer Code": "PL AUTO",
+    "Status": "Putaway",
+    "Received Date": "2025-11-26",
+    "Invoice No.": "3010099107",
+    "Lot No.": null,
+    "QTY": 125.0,
+    "UID": 5
+  },
+  {
+    "Location": "GA-NG-01-1-1",
     "Part No": "RM00-120015",
     "Product Description": "GRAPHITE G6S",
     "Customer Code": "PL AUTO 2",
@@ -52701,18 +52797,6 @@
     "Invoice No.": "SNIC222",
     "Lot No.": "MH-408SMZ1",
     "QTY": 20.0,
-    "UID": 1
-  },
-  {
-    "Location": "GA-NG-01-1-1",
-    "Part No": "TSOP7 (NAT)",
-    "Product Description": "PP RESIN COSMOPLENE TSOP7 (NAT)",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-09-26",
-    "Invoice No.": "3010100945",
-    "Lot No.": null,
-    "QTY": 25.0,
     "UID": 1
   },
   {
@@ -52788,54 +52872,6 @@
     "UID": 2
   },
   {
-    "Location": "GA-NG-04-2-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-20",
-    "Invoice No.": "3010100391",
-    "Lot No.": null,
-    "QTY": 100.0,
-    "UID": 4
-  },
-  {
-    "Location": "GA-NG-04-2-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-23",
-    "Invoice No.": "3010100393",
-    "Lot No.": null,
-    "QTY": 50.0,
-    "UID": 2
-  },
-  {
-    "Location": "GA-NG-04-2-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-26",
-    "Invoice No.": "3010100490",
-    "Lot No.": null,
-    "QTY": 50.0,
-    "UID": 2
-  },
-  {
-    "Location": "GA-NG-05-1-1",
-    "Part No": "PP8285E1",
-    "Product Description": "PP8285E1",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-27",
-    "Invoice No.": "3010098436",
-    "Lot No.": null,
-    "QTY": 175.0,
-    "UID": 7
-  },
-  {
     "Location": "GA-NG-06-1-1",
     "Part No": "AP-IP4K 5PK(3)",
     "Product Description": "AP-IP4K 5PK(3)",
@@ -52872,18 +52908,6 @@
     "UID": 1
   },
   {
-    "Location": "GA-NG-06-2-1",
-    "Part No": "AP03B",
-    "Product Description": "AP03B",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-20",
-    "Invoice No.": "TTI/IDP1/VIII/11411/",
-    "Lot No.": null,
-    "QTY": 50.0,
-    "UID": 2
-  },
-  {
     "Location": "GA-NG-07-1-1",
     "Part No": "17018B914",
     "Product Description": "LVR0228H-1",
@@ -52918,66 +52942,6 @@
     "Lot No.": null,
     "QTY": 100.0,
     "UID": 4
-  },
-  {
-    "Location": "GA-NG-07-2-1",
-    "Part No": "PP8285E1",
-    "Product Description": "PP8285E1",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-06-26",
-    "Invoice No.": "3010098985",
-    "Lot No.": null,
-    "QTY": 25.0,
-    "UID": 1
-  },
-  {
-    "Location": "GA-NG-08-1-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-30",
-    "Invoice No.": "3010100492",
-    "Lot No.": null,
-    "QTY": 525.0,
-    "UID": 21
-  },
-  {
-    "Location": "GA-NG-08-2-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-29",
-    "Invoice No.": "3010100491",
-    "Lot No.": null,
-    "QTY": 75.0,
-    "UID": 3
-  },
-  {
-    "Location": "GA-NG-08-2-1",
-    "Part No": "PP LA880T NA",
-    "Product Description": "PP LA880T NATURAL",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-08-30",
-    "Invoice No.": "3010100492",
-    "Lot No.": null,
-    "QTY": 50.0,
-    "UID": 2
-  },
-  {
-    "Location": "GA-NG-09-1-1",
-    "Part No": "PP8285E1",
-    "Product Description": "PP8285E1",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-07-21",
-    "Invoice No.": "3010099059",
-    "Lot No.": null,
-    "QTY": 50.0,
-    "UID": 2
   },
   {
     "Location": "GA-NG-09-1-1",
@@ -53026,18 +52990,6 @@
     "Lot No.": null,
     "QTY": 20.0,
     "UID": 1
-  },
-  {
-    "Location": "GA-NG-10-1-1",
-    "Part No": "TSOP7 (NAT)",
-    "Product Description": "PP RESIN COSMOPLENE TSOP7 (NAT)",
-    "Customer Code": "PL AUTO",
-    "Status": "Putaway",
-    "Received Date": "2025-09-26",
-    "Invoice No.": "3010100945",
-    "Lot No.": null,
-    "QTY": 50.0,
-    "UID": 2
   },
   {
     "Location": "GA-NG-10-2-1",
